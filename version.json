@@ -9,5 +9,10 @@
     "buildNumber": {
       "enabled": true
     }
-  }
+  },
+  "versionHeightOffset": 3,
+  "pathFilters": [
+    "./b",
+    "./c"
+  ]
 }
