@@ -1,0 +1,1 @@
+This file in folder "b" is versioned
