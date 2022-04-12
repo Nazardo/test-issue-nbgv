@@ -1,1 +1,2 @@
-This file in folder "b" is versioned
+This file in folder "b" is versioned.
+Any commit in this file/folder creates a new version.
