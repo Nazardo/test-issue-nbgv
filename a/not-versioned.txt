@@ -1,1 +1,3 @@
-This file is in folder "a" and it is not versioned
+This file is in folder "a" and it is not versioned.
+It means that changes to this file/folder have no effect
+on the version number.
